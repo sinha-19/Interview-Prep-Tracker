@@ -1,6 +1,6 @@
 # 📚 Interview Preparation Progress Tracker
 
-A simple, beginner-friendly React.js application to track your interview preparation progress across key topics: DSA, OS, DBMS, CN, and HR. Easily add topics, update your study status, and test your knowledge with built-in quizzes before marking topics as "In Progress" or "Completed". All data persists in LocalStorage.
+A simple, beginner-friendly React.js application to track your interview preparation progress across key topics: DSA, OS, DBMS and CN. Easily add topics, update your study status, and test your knowledge with built-in quizzes before marking topics as "In Progress" or "Completed". All data persists in LocalStorage.
 
 **🌐 Live Demo:**  
 [https://interview-prep-tracker.vercel.app/](https://interview-prep-tracker.vercel.app/)
